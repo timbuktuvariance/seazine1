@@ -1,6 +1,5 @@
 +++
 date = "2014-04-02"
-draft = true
 tags = ["go", "golang", "templates", "themes", "development"]
 title = "(Hu)go Template Primer"
 toc = true
