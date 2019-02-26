@@ -31,7 +31,7 @@ url = "https://twitter.com/Manuela_de_rios"
 name = "instagram"
 url = "https://instagram.com/"
 [[params.social]]
-name = "github"
-url = "https://github.com/"
+name = "facebook"
+url = "https://facebook.com/"
 [taxonomies]
 tag = "tags"
