@@ -7,9 +7,9 @@ pygmentsCodefences = true
 pygmentsUseClasses = true
 rssLimit = 10
 theme = "hermit"
-title = "Hugo Hermit"
+title = "SeaZINE"
 [author]
-name = "SeaZINE"
+name = "Manuela de los Rios"
 [blackfriday]
 [[menu.main]]
 name = "About"
