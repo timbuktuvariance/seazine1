@@ -12,6 +12,10 @@ title = "SeaZINE"
 name = "Manuela de los Rios"
 [blackfriday]
 [[menu.main]]
+name = "Manuela"
+url = "www.linkedin.com/in/manueladelosrios"
+weight = 2
+[[menu.main]]
 name = "About"
 url = "about-hugo/"
 weight = 1
