@@ -1,6 +1,6 @@
 +++
 date = "2014-04-09"
-title = "SeaZINE"
+title = "Dundee, Tay and the Sea"
 
 +++
-holls
+This is the content about dundee
