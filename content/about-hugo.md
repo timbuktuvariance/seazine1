@@ -6,4 +6,4 @@ name = "Dundee and the sea"
 weight = 3
 
 +++
-![](/uploads/Screenshot from 2018-08-30 08-16-44.png)This is about dundee
+This is about the sea
